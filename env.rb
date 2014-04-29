@@ -1,0 +1,6 @@
+# /env.rb
+
+ENV['S3_BUCKET'] = 'S3_BUCKET'
+ENV['S3_REGION'] = 'S3_REGION'
+ENV['S3_KEY'] = 'S3_KEY' 
+ENV['S3_SECRET'] = 'S3_SECRET' 
